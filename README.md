@@ -1,11 +1,13 @@
+<!-- ================= HEADER WAVE ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:1c2541,100:3a506b&height=240&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:1c2541,100:3a506b&height=240&section=header&text=Code.Learn.Evolve&fontSize=58&fontColor=EAF6FF&font=Orbitron&animation=fadeIn&fontAlignY=38&desc=&descAlignY=60"/>
 </p>
 
+<!-- ================= GLOWING TYPING INTRO ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3500&pause=1200&color=EAF6FF&center=true&vCenter=true&width=700&lines=Code.Learn.Evolve"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Somya;Aspiring+AI+•+ML+Engineer;GenAI+Explorer;Building+Smart+Systems"/>
 </p>
----
+
 
 ## 🧠 About Me
 
