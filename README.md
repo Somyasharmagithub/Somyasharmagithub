@@ -1,6 +1,6 @@
 <!-- ================= HEADER WAVE ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:1c2541,100:3a506b&height=240&section=header&text=Somya%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:1c2541,100:3a506b&height=240&section=header&text=Code.Learn.Evolve&fontSize=58&fontColor=EAF6FF&font=Orbitron&animation=fadeIn&fontAlignY=38&desc=&descAlignY=60"/>
 </p>
 
 <!-- ================= GLOWING TYPING INTRO ================= -->
