@@ -1,11 +1,16 @@
 <!-- HEADER BANNER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Somya%20Sharma&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header"/>
+</p>
+
+<!-- MIDJOURNEY STYLE ANIMATION (ADD HERE) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
 <!-- TYPING TEXT -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Developer;GenAI+Explorer;Building+Real+World+Projects;Always+Learning+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Somya+Sharma;AI+%7C+ML+Engineer;GenAI+Explorer;Building+Smart+Systems"/>
 </p>
 
 ---
