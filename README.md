@@ -1,11 +1,11 @@
 <!-- ================= HEADER WAVE ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:1c2541,100:3a506b&height=240&section=header&text=Hi+👋,+I'm+Somya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:1c2541,100:3a506b&height=240&section=header&text=Somya%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <!-- ================= GLOWING TYPING INTRO ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Web Developer;AI+•+ML+Engineer;GenAI+Explorer;Building+Smart+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Somya;AI+•+ML+Engineer;GenAI+Explorer;Building+Smart+Systems"/>
 </p>
 
 ---
