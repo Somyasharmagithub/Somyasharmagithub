@@ -1,16 +1,11 @@
-<!-- HEADER BANNER -->
+<!-- PREMIUM NEON WAVE HEADER WITH NAME -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header"/>
-</p>
-
-<!-- MIDJOURNEY STYLE ANIMATION (ADD HERE) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,25:6A0DAD,50:7B2FF7,75:00C6FF,100:F8F9FF&height=260&section=header&text=Somya%20Sharma&fontSize=60&fontColor=F5F7FF&animation=fadeIn&fontAlignY=40"/>
 </p>
 
 <!-- TYPING TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Somya+Sharma;AI+%7C+ML+Engineer;GenAI+Explorer;Building+Smart+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+%7C+ML+Engineer;GenAI+Explorer;Building+Smart+Systems"/>
 </p>
 
 ---
