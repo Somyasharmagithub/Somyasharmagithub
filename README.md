@@ -1,13 +1,19 @@
-<!-- PREMIUM NEON WAVE HEADER WITH NAME -->
+<!-- SEA WAVE ANIMATED HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,25:6A0DAD,50:7B2FF7,75:00C6FF,100:F8F9FF&height=260&section=header&text=Somya%20Sharma&fontSize=60&fontColor=F5F7FF&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://raw.githubusercontent.com/roshanrahman/github-profile-wave/main/wave.gif" width="100%" />
 </p>
 
-<!-- TYPING TEXT -->
+<!-- NAME -->
+<h1 align="center" style="color:white;">
+Somya Sharma
+</h1>
+
+<!-- TYPING ROLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+%7C+ML+Engineer;GenAI+Explorer;Building+Smart+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=7FD6FF&center=true&vCenter=true&lines=AI+%7C+ML+Engineer;GenAI+Explorer;Building+Smart+Systems"/>
 </p>
 
+---
 ---
 
 ## 👩‍💻 About Me
