@@ -1,7 +1,7 @@
 <!-- WAVE BACKGROUND -->
 <!-- HEADER WAVE WITH NAME ON IT -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&section=header&text=Somya%20Sharma&font=Orbitron&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0b132b,40:1c2541,70:3a506b,100:5bc0be&section=header&text=Somya%20Sharma&font=Orbitron&fontSize=60&fontColor=EAF6FF&animation=twinkling&fontAlignY=38"/>
 </p>
 ## 👩‍💻 About Me
 - 🎓 ECE student exploring **AI + Machine Learning**
