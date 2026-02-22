@@ -19,6 +19,9 @@
 ---
 
 ## 🚀 Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,numpy,pandas,js,react,nodejs,mongodb,mysql,java,r,git,github,vscode" />
+</p>
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
