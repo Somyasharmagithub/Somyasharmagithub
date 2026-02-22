@@ -3,11 +3,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0b132b,40:1c2541,70:3a506b,100:5bc0be&section=header&text=Somya%20Sharma&font=Orbitron&fontSize=60&fontColor=EAF6FF&animation=twinkling&fontAlignY=38"/>
 </p>
-## 👩‍💻 About Me
-- 🎓 ECE student exploring **AI + Machine Learning**
-- 🤖 Building GenAI & health-tech projects
-- 🌱 Currently learning: **LLMs & Applied AI**
-- ⚡ I like turning ideas into working products
+---
+## 🧠 About Me
+- 🎓 ECE Student exploring AI + ML
+- 🤖 Building GenAI & HealthTech projects
+- 🌱 Currently learning: LLMs & Applied ML
+- ⚡ Fun fact: I turn ideas into projects fast
 
 ---
 
