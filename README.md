@@ -8,11 +8,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Somya;Aspiring+AI+•+ML+Engineer;GenAI+Explorer;Building+Smart+Systems"/>
 </p>
 <!-- MIDJOURNEY STYLE ANIMATION (ADD HERE) -->
-<p> align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
        width="100%" />
 </p>
-
 ## 🧠 About Me
 
 - 🎓 ECE student exploring **AI + Machine Learning**
