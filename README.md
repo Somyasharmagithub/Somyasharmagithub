@@ -8,12 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=7FD6FF&center=true&vCenter=true&lines=AI+%7C+ML+Engineer;GenAI+Explorer;Building+Smart+Systems"/>
 </p>
 
-<!-- TYPING ROLE -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7FD6FF&center=true&vCenter=true&lines=AI+%7C+ML+Engineer;GenAI+Explorer;Building+Smart+Systems"/>
-</p>
-
----
 ---
 
 ## 👩‍💻 About Me
