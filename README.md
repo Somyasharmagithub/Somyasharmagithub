@@ -144,7 +144,8 @@
 <h3 align="center">✨ Thanks for Visiting! ✨</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/aa/a9/2d/aaa92dfb8b4f18822505574280da331c.gif"
+  <img src="![cool](https://github.com/user-attachments/assets/ac8af4a8-c365-4f6b-887b-2430b66a8d83)"
+
        width="55%"
        alt="thanks for visiting"/>
 </p>
