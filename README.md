@@ -12,13 +12,29 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
        width="100%" />
 </p>
+## 🧠 About Me
 
-##🧠 About Me
+<table>
+<tr>
+<td width="55%">
 
-- 🎓 ECE student exploring **AI + Machine Learning**
-- 🤖 Building GenAI & HealthTech projects
-- 🌱 Currently learning: **LLMs & Applied ML**
-- ⚡ Fun fact: I turn ideas into working products fast
+<ul>
+<li>🎓 ECE student exploring <b>AI + Machine Learning</b></li>
+<li>🤖 Building GenAI & HealthTech projects</li>
+<li>🌱 Currently learning: <b>LLMs & Applied ML</b></li>
+<li>⚡ Fun fact: I turn ideas into working products fast</li>
+</ul>
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🚀 Tech Stack
