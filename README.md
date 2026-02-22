@@ -1,7 +1,11 @@
-<!-- PREMIUM ANIMATED HEADER -->
-
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Somya%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20•%20ML%20Engineer%20•%20GenAI%20Explorer&descAlignY=65&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Somya%20Sharma&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<!-- TYPING TEXT -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Developer;GenAI+Explorer;Building+Real+World+Projects;Always+Learning+🚀"/>
 </p>
 ---
 
