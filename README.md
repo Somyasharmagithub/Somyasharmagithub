@@ -7,10 +7,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Somya;Aspiring+AI+•+ML+Engineer;GenAI+Explorer;Building+Smart+Systems"/>
 </p>
-<!-- MIDJOURNEY STYLE ANIMATION (ADD HERE) -->
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-       width="100%" />
+  <img src="https://github.com/user-attachments/assets/fd177012-bbec-4fc8-88f2-57b6e62f9400"
+       width="100%"
+       style="display:block;"
+       alt="banner gif"/>
 </p>
 
 **<h2 align="left">🧠 About Me</h2>**
@@ -42,6 +44,11 @@
 </table>
 
 <hr>
+<!-- MIDJOURNEY STYLE ANIMATION (ADD HERE) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+       width="100%" />
+</p>
 
 ## 🚀 Tech Stack
 
