@@ -18,18 +18,19 @@
 <table align="center" width="100%">
 <tr>
 
-<td width="65%" valign="top">
+<td width="70%" valign="top">
 
 <ul>
-<li>🎓 ECE student exploring <b>AI + Machine Learning</b></li>
-<li>🤖 Building GenAI & HealthTech projects</li>
-<li>🌱 Currently learning: <b>LLMs & Applied ML</b></li>
-<li>⚡ Fun fact: I turn ideas into working products fast</li>
+<li>🚀 Passionate about building intelligent, data-driven solutions using <b>Machine Learning and AI</b></li>
+<li>📊 Experienced in applying ML models for prediction, classification, and data analysis</li>
+<li>🧠 Exploring <b>Deep Learning</b> and experimenting with computational models</li>
+<li>📡 ECE student interested in signal processing, systems, and AI integration</li>
+<li>⚙️ Focused on writing efficient code and developing scalable real-world solutions</li>
 </ul>
 
 </td>
 
-<td width="35%" align="center" valign="top">
+<td width="30%" align="center" valign="top">
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
      width="100%"
