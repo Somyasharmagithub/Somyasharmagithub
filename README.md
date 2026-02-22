@@ -12,11 +12,13 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
        width="100%" />
 </p>
-## 🧠 About Me
 
-<table>
+**<h2 align="left">🧠 About Me</h2>**
+
+<table width="100%">
 <tr>
-<td width="55%">
+
+<td width="60%" valign="top">
 
 <ul>
 <li>🎓 ECE student exploring <b>AI + Machine Learning</b></li>
@@ -27,14 +29,16 @@
 
 </td>
 
-<td width="45%" align="center">
+<td width="40%" align="center" valign="top">
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
 
 </td>
+
 </tr>
 </table>
 
+<hr>
 ---
 
 ## 🚀 Tech Stack
