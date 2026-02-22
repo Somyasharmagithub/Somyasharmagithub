@@ -1,11 +1,12 @@
-<!-- 🌊 ANIMATED SEA WAVE HEADER -->
+<!-- ================= HEADER ================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:89CFF0,50:AEDFF7,100:E0F7FF&text=Somya%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=260&section=header&text=Somya%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=AI%20%7C%20ML%20Engineer%20%7C%20GenAI%20Explorer&descAlignY=65&descSize=20" />
 </p>
 
-<!-- TYPING TEXT -->
+<!-- Animated typing (KEEP — already good) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7FD6FF&center=true&vCenter=true&lines=AI+%7C+ML+Engineer;GenAI+Explorer;Building+Smart+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=7DF9FF&center=true&vCenter=true&lines=AI+Developer;GenAI+Explorer;Building+Smart+Systems;Machine+Learning+Enthusiast" />
 </p>
 
 ---
