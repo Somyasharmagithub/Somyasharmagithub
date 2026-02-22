@@ -135,9 +135,22 @@
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: (add later)
-- 📧 Email: (add later)
+- 💼 LinkedIn: [Somya Sharma](https://www.linkedin.com/in/somya-sharma-290470329/)
+- 📧 Email: somya.sharmayt10630@gmail.com
+  
+⭐ *Building cool things one commit at a time.*
 
 ---
+<h3 align="center">✨ Thanks for Visiting! ✨</h3>
 
-⭐ *Building cool things one commit at a time.*
+<p align="center">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"
+       width="100%"
+       alt="Thanks for visiting animation"/>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile — happy coding! 🚀</i>
+</p>
+
+
