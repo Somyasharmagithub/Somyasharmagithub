@@ -1,11 +1,7 @@
 <!-- WAVE BACKGROUND -->
+<!-- HEADER WAVE WITH NAME ON IT -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&section=header"/>
-</p>
-
-<!-- GLITCH STYLE NAME -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=50&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=900&height=120&lines=Somya+Sharma"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&section=header&text=Somya%20Sharma&font=Orbitron&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 ## 👩‍💻 About Me
 - 🎓 ECE student exploring **AI + Machine Learning**
