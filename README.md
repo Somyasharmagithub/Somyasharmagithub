@@ -13,7 +13,7 @@
        width="100%" />
 </p>
 ---
-🧠 About Me
+##🧠 About Me
 
 - 🎓 ECE student exploring **AI + Machine Learning**
 - 🤖 Building GenAI & HealthTech projects
