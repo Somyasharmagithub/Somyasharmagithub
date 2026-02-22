@@ -1,15 +1,21 @@
-<!-- WAVE BACKGROUND -->
-<!-- HEADER WAVE WITH NAME ON IT -->
+<!-- ================= HEADER WAVE ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0b132b,40:1c2541,70:3a506b,100:5bc0be&section=header&text=Somya%20Sharma&font=Orbitron&fontSize=60&fontColor=EAF6FF&animation=twinkling&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:1c2541,100:3a506b&height=240&section=header&text=Somya%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
----
-## 🧠 About Me
-- 🎓 ECE Student exploring AI + ML
-- 🤖 Building GenAI & HealthTech projects
-- 🌱 Currently learning: LLMs & Applied ML
-- ⚡ Fun fact: I turn ideas into projects fast
 
+<!-- ================= GLOWING TYPING INTRO ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Somya;AI+•+ML+Engineer;GenAI+Explorer;Building+Smart+Systems"/>
+</p>
+
+---
+
+## 🧠 About Me
+
+- 🎓 ECE student exploring **AI + Machine Learning**
+- 🤖 Building GenAI & HealthTech projects
+- 🌱 Currently learning: **LLMs & Applied ML**
+- ⚡ Fun fact: I turn ideas into working products fast
 ---
 
 ## 🚀 Tech Stack
