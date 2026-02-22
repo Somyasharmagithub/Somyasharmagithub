@@ -5,7 +5,7 @@
 
 <!-- ================= GLOWING TYPING INTRO ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Somya;AI+•+ML+Engineer;GenAI+Explorer;Building+Smart+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Somya;Aspiring+AI+•+ML+Engineer;GenAI+Explorer;Building+Smart+Systems"/>
 </p>
 
 ---
