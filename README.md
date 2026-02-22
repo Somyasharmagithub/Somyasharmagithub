@@ -1,12 +1,12 @@
-<!-- SEA WAVE ANIMATED HEADER -->
+<!-- 🌊 ANIMATED SEA WAVE HEADER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/roshanrahman/github-profile-wave/main/wave.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:89CFF0,50:AEDFF7,100:E0F7FF&text=Somya%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<!-- NAME -->
-<h1 align="center" style="color:white;">
-Somya Sharma
-</h1>
+<!-- TYPING TEXT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7FD6FF&center=true&vCenter=true&lines=AI+%7C+ML+Engineer;GenAI+Explorer;Building+Smart+Systems"/>
+</p>
 
 <!-- TYPING ROLE -->
 <p align="center">
