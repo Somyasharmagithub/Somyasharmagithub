@@ -144,13 +144,12 @@
 <h3 align="center">✨ Thanks for Visiting! ✨</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"
-       width="100%"
-       alt="Thanks for visiting animation"/>
+  <img src="https://i.pinimg.com/originals/aa/a9/2d/aaa92dfb8b4f18822505574280da331c.gif"
+       width="55%"
+       alt="thanks for visiting"/>
 </p>
 
 <p align="center">
-  <i>Thanks for visiting my profile — happy coding! 🚀</i>
+  <i>Thanks for visiting my profile 💫</i>
 </p>
-
 
