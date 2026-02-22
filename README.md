@@ -1,12 +1,78 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= PREMIUM ANIMATED HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=260&section=header&text=Somya%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=AI%20%7C%20ML%20Engineer%20%7C%20GenAI%20Explorer&descAlignY=65&descSize=20" />
-</p>
 
-<!-- Animated typing (KEEP — already good) -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7DF9FF&center=true&vCenter=true&lines=AI+Developer;GenAI+Explorer;Building+Smart+Systems;Machine+Learning+Enthusiast" />
+<svg width="100%" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+
+<!-- Background Gradient -->
+<defs>
+  <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#0f2027"/>
+    <stop offset="50%" stop-color="#203a43"/>
+    <stop offset="100%" stop-color="#2c5364"/>
+  </linearGradient>
+
+  <!-- moving light -->
+  <linearGradient id="shine">
+    <stop offset="0%" stop-color="white" stop-opacity="0"/>
+    <stop offset="50%" stop-color="white" stop-opacity="0.15"/>
+    <stop offset="100%" stop-color="white" stop-opacity="0"/>
+    <animateTransform
+      attributeName="gradientTransform"
+      type="translate"
+      from="-1 0"
+      to="1 0"
+      dur="6s"
+      repeatCount="indefinite"/>
+  </linearGradient>
+</defs>
+
+<!-- Background -->
+<rect width="1200" height="260" fill="url(#grad)" />
+
+<!-- Animated grid -->
+<g stroke="#7dd3fc" stroke-opacity="0.08">
+  <path d="M0 200 L1200 200">
+    <animate attributeName="stroke-opacity" values="0.05;0.15;0.05" dur="4s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 160 L1200 160"/>
+  <path d="M0 120 L1200 120"/>
+</g>
+
+<!-- Shine overlay -->
+<rect width="1200" height="260" fill="url(#shine)" />
+
+<!-- Name -->
+<text x="50%" y="48%"
+      dominant-baseline="middle"
+      text-anchor="middle"
+      font-size="56"
+      fill="white"
+      font-family="Segoe UI, sans-serif"
+      letter-spacing="2">
+
+  SOMYA SHARMA
+
+  <animate attributeName="opacity"
+           values="0.85;1;0.85"
+           dur="3s"
+           repeatCount="indefinite"/>
+</text>
+
+<!-- Subtitle -->
+<text x="50%" y="68%"
+      dominant-baseline="middle"
+      text-anchor="middle"
+      font-size="20"
+      fill="#cbd5e1"
+      font-family="Segoe UI, sans-serif">
+
+AI • ML Engineer • GenAI Explorer
+
+</text>
+
+</svg>
+
 </p>
 
 ---
