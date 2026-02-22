@@ -109,7 +109,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Somyasharmagithub&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Somyasharmagithub&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" />
 </p>
 
 ---
