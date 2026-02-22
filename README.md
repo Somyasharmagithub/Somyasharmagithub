@@ -15,10 +15,10 @@
 
 **<h2 align="left">🧠 About Me</h2>**
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
 
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
 <ul>
 <li>🎓 ECE student exploring <b>AI + Machine Learning</b></li>
@@ -29,9 +29,11 @@
 
 </td>
 
-<td width="40%" align="center" valign="top">
+<td width="35%" align="center" valign="top">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+     width="100%"
+     style="border-radius:10px;" />
 
 </td>
 
