@@ -18,7 +18,7 @@
 <table align="center" width="100%">
 <tr>
 
-<td width="70%" valign="top">
+<td width="70%" valign="middle">
 
 <ul>
 <li>🚀 Passionate about building intelligent, data-driven solutions using <b>Machine Learning and AI</b></li>
@@ -30,11 +30,11 @@
 
 </td>
 
-<td width="30%" align="center" valign="top">
+<td width="30%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAd/coding.gif"
      width="100%"
-     style="border-radius:10px;" />
+     style="display:block; border-radius:10px;" />
 
 </td>
 
