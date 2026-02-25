@@ -14,7 +14,7 @@
        alt="banner gif"/>
 </p>
 
-**<h2 align="left">🧠 About Me</h2>**
+**<h2 align="left">About Me</h2>**
 
 <table align="center" width="100%">
 <tr>
@@ -22,11 +22,11 @@
 <td width="70%" valign="middle">
 
 <ul>
-<li>🚀 Passionate about building intelligent, data-driven solutions using <b>Machine Learning and AI</b></li>
-<li>📊 Experienced in applying ML models for prediction, classification, and data analysis</li>
-<li>🧠 Exploring <b>Deep Learning</b> and experimenting with computational models</li>
-<li>📡 ECE student interested in signal processing, systems, and AI integration</li>
-<li>⚙️ Focused on writing efficient code and developing scalable real-world solutions</li>
+<li> Passionate about building intelligent, data-driven solutions using <b>Machine Learning and AI</b></li>
+<li> Experienced in applying ML models for prediction, classification, and data analysis</li>
+<li> Exploring <b>Deep Learning</b> and experimenting with computational models</li>
+<li> ECE student interested in signal processing, systems, and AI integration</li>
+<li> Focused on writing efficient code and developing scalable real-world solutions</li>
 </ul>
 
 </td>
@@ -49,7 +49,7 @@
        width="100%" />
 </p>
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ### ⚡ Core Technologies
 <p align="center">
@@ -58,11 +58,11 @@
 
 ---
 
-## 🧰 Detailed Skill Categories
+##  Detailed Skill Categories
 
 <sub>
 
-### 🤖 Machine Learning & Data Science
+###  Machine Learning & Data Science
 <p>
   <img src="https://img.shields.io/badge/ScikitLearn-3499CD?style=flat" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat" />
 </p>
 
-### 🌐 Web Development (MERN)
+###  Web Development (MERN)
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
@@ -82,13 +82,13 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 </p>
 
-### ☁️ Cloud
+###  Cloud
 <p>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
 </p>
 
-### 🛠 Tools & Technologies
+###  Tools & Technologies
 <p>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=flat" />
@@ -99,7 +99,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
 
-### 💻 Programming Languages
+###  Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
@@ -111,13 +111,13 @@
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Somyasharmagithub&theme=tokyonight" />
 </p>
 
-## 📊 Top Languages
+##  Top Languages
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Somyasharmagithub&theme=tokyonight" />
